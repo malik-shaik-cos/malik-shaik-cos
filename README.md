@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Spring Boot, Python, Flask, Dart, Flutter.
 - 🌱 I’m currently learning Flask and Spring Boot.
 - 💞️ I’m looking to collaborate on Java projects.
-- 📫 How to reach me ? Please follow me at https://www.instagram.com/_shaikmalikbasha_/
+- 📫 How to reach me ? Please follow me at https://www.instagram.com/__shaikmalikbasha__/
 
 <!---
 malik583/malik583 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
