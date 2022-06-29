@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shaik Malik Basha
-- 👀 I’m interested in Java, Spring Boot, Python, Flask, Dart, Flutter, Azure Function Apps, FastAPI, ReactJS.
-- 🌱 I’m currently learning Flask, Azure Data Factory, Snowflake & Machine Learning.
-- 💞️ I’m looking to collaborate on Java & Python projects.
+- 👀 I’m interested in Python, Flask, FastAPI, MicroServices, ReactJS, Java, Spring Boot.
+- 🌱 I’m currently learning FastAPI Flask, Azure Data Factory, Snowflake & Machine Learning.
+- 💞️ I’m looking to collaborate on Python based projects.
 - 📫 How to reach me ? Please follow me at https://www.instagram.com/__shaikmalikbasha__/
 
 <!---
